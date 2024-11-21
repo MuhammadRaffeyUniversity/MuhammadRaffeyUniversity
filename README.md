@@ -51,16 +51,9 @@
   <a href="https://www.linkedin.com/in/muhammadraffey/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
   </a>
-  <!-- <a href="https://dribbble.com/danyalmoazzamjan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="dribbble logo"  />
-  </a> -->
   <a href="https://stackoverflow.com/users/15295176/muhammad-raffey" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="stackoverflow logo"  />
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/MuhammadRaffey/MuhammadRaffey/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/MuhammadRaffey/MuhammadRaffey/blob/output/github-snake-dark.svg)
